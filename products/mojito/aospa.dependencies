@@ -31,7 +31,7 @@
     },
     {
         "remote":       "github",
-        "repository":   "venom-stark/kernel_xiaomi_mojito",
+        "repository":   "boedhack99/kernel_xiaomi_mojito",
         "target_path":  "kernel/xiaomi/mojito",
         "revision":     "S"
     },

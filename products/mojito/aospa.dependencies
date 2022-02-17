@@ -1,7 +1,7 @@
 [
     {
         "remote":       "github",
-        "repository":   "boedhack/android_device_xiaomi_mojito",
+        "repository":   "boedhack/device_xiaomi_mojito",
         "target_path":  "device/xiaomi/mojito",
         "revision":     "sapphire"
     },
@@ -37,7 +37,7 @@
     },
     {
         "remote":       "github",
-        "repository":   "boedhack/android_vendor_xiaomi_mojito",
+        "repository":   "boedhack/vendor_xiaomi_mojito",
         "target_path":  "vendor/xiaomi/mojito",
         "revision":     "sapphire"
     }

@@ -33,7 +33,7 @@
         "remote":       "github",
         "repository":   "boedhack99/kernel_xiaomi_mojito",
         "target_path":  "kernel/xiaomi/mojito",
-        "revision":     "S"
+        "revision":     "sapphire"
     },
     {
         "remote":       "github",
